@@ -1,0 +1,31 @@
+# Virtual environment (THIS is your main problem)
+face/
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Trained model files (if large)
+*.h5
+*.pkl
+*.model
+*.pt
+*.pth
+
+# Dataset folders (if any)
+dataset/
+images/
+data/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
