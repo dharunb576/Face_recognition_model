@@ -16,6 +16,9 @@ __pycache__/
 *.model
 *.pt
 *.pth
+*.jpg
+*.png
+*.jpeg
 
 # Dataset folders (if any)
 dataset/
